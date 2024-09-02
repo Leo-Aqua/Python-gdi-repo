@@ -44,8 +44,9 @@ Join the dark side of the force
 
 ### Waves
 Makes your screen wavy ~~~
+## Star History
 
-
+[![Star History Chart](https://api.star-history.com/svg?repos=Leo-Aqua/Python-gdi-repo&type=Date)](https://star-history.com/#Leo-Aqua/Python-gdi-repo&Date)
 
 ## License
 

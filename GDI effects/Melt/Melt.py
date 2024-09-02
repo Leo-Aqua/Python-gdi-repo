@@ -14,16 +14,6 @@ user32.SetProcessDPIAware()
 x = y = 0
 while True:
     hdc = win32gui.GetDC(0)
-    win32gui.BitBlt(
-        hdc,
-        random.randint(1, 10) % 2,
-        random.randint(1, 10) % 2,
-        w,
-        h,
-        hdc,
-        random.randint(1, 1000) % 2,
-        random.randint(1, 1000) % 2,
-        win32con.SRCAND,
-    )
-    time.sleep(0.01)
+    x = random.randint(0, w)
+    win32gui.BitBlt(hdc, x, 1, 10, h, hdc, x, 0, win32con.SRCCOPY)
     win32gui.ReleaseDC(0, hdc)

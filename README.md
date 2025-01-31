@@ -55,3 +55,11 @@ This program is liscensed under the MIT LICENSE
 ## Contact
 
 contact@leoaqua.de
+
+ > [!IMPORTANT]
+> ## DISCLAIMER
+> Don't be a skid. Do not use any of the code in this repo for harm.
+> 
+> I do not take responsibility for any damages.
+> 
+> And most importantly: Have fun and happy programming! :D

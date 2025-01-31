@@ -1,6 +1,9 @@
 # Python-gdi-repo
 Do you know these cool visuals like the tunnel effect from MEMZ.exe? Yes here is a library of these effects written in python! 
 
+# Polls
+- [Rewrite as module](https://github.com/Leo-Aqua/Python-gdi-repo/discussions/5)
+
 ## Effects
 
 ### BwHell (Black White Hell)

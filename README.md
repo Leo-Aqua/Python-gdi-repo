@@ -9,6 +9,12 @@ Do you know these cool visuals like the tunnel effect from MEMZ.exe? Yes here is
 ### BwHell (Black White Hell)
 Flashes and shakes the screen
 
+### [✨ New!] Camo
+Looks like Camouflage but quickly transforms into noise.
+
+### [✨ New!] Circles
+Draws Circles/Rings on your screen
+
 ### Errors
 Fills the screen with error icons (In a grid or randomized)
 
@@ -47,6 +53,10 @@ Join the dark side of the force
 
 ### Waves
 Makes your screen wavy ~~~
+
+### [✨ New!] Xor
+Xor Fractal :D
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Leo-Aqua/Python-gdi-repo&type=Date)](https://star-history.com/#Leo-Aqua/Python-gdi-repo&Date)
